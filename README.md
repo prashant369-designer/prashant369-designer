@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I am Prashant Chaudhary
-**A passionate Web Developer || MERN Stack || Data Structure Algorithms
+A passionate Web Developer || MERN Stack || Data Structure Algorithms
 
 Email Me 👉 ✉️ **prashant369.learner@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
